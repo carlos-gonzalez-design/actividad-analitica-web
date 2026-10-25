@@ -1,5 +1,6 @@
 <script setup>
 import { onMounted, ref } from 'vue'
+import { setAnalyticsConsent } from '../utils/umamiAnalytics'
 
 const STORAGE_KEY = 'carlos-gonzalez-cookie-consent'
 const isVisible = ref(false)
@@ -20,6 +21,7 @@ function saveConsent(analytics) {
   }
 
   analyticsAllowed.value = analytics
+  setAnalyticsConsent(analytics)
   isVisible.value = false
   showPreferences.value = false
 }
@@ -50,6 +52,7 @@ onMounted(() => {
 
   try {
     analyticsAllowed.value = JSON.parse(storedConsent).analytics === true
+    setAnalyticsConsent(analyticsAllowed.value)
   } catch {
     isVisible.value = true
   }
