@@ -1,0 +1,16 @@
+:root {
+  --color-ink: #151513;
+  --color-paper: #f2f0eb;
+  --color-white: #fff;
+  --color-line: rgb(21 21 19 / 22%);
+  --color-muted: #666560;
+  --color-accent: #ff5638;
+  --color-success: #44bd58;
+  --font-sans: "Arial Narrow", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-serif: Iowan Old Style, Baskerville, "Times New Roman", serif;
+  --font-mono: "Courier New", monospace;
+  --page-x: clamp(1.25rem, 3.2vw, 4rem);
+  --section-y: clamp(4.5rem, 9vw, 9rem);
+  --radius-round: 999rem;
+  --transition: 240ms cubic-bezier(.2, .7, .2, 1);
+}

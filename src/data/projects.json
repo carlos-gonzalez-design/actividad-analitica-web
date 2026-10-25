@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "slug": "pulso-tickets",
+    "name": "Pulso Tickets",
+    "description": "Una nueva forma de descubrir y vivir la música en directo.",
+    "image": "/images/projects/pulso-tickets-cover.jpg",
+    "category": "Product Design",
+    "year": "2025",
+    "technologies": ["Figma", "Vue", "Design System"],
+    "details": {
+      "intro": "Rediseño integral de una plataforma de ticketing que pone la emoción del directo antes que la transacción.",
+      "summary": "Pulso reúne descubrimiento, compra y acceso al evento en una experiencia continua. Trabajamos desde la estrategia de producto hasta un sistema visual preparado para crecer.",
+      "headline": "Menos fricción. Más intención.",
+      "body": "La experiencia anterior trataba todos los eventos igual y escondía información clave durante la compra. El rediseño aumenta especialmente la claridad en móvil.",
+      "closing": "Una experiencia que se explica sola."
+    },
+    "gallery": [
+      "/images/gallery/concert-night.jpg",
+      "/images/gallery/concert-crowd.jpg"
+    ],
+    "color": "#ff5838"
+  },
+  {
+    "id": 2,
+    "slug": "north-analytics",
+    "name": "North Analytics",
+    "description": "Datos complejos, convertidos en decisiones claras.",
+    "image": "/images/projects/north-analytics-cover.jpg",
+    "category": "UX/UI · Frontend",
+    "year": "2025",
+    "technologies": ["Vue", "Data Viz", "CSS Grid"],
+    "details": {
+      "intro": "Una plataforma de analítica que convierte señales complejas en decisiones fáciles de compartir.",
+      "summary": "North organiza métricas, tendencias y alertas en una interfaz sobria que ayuda a cada equipo a centrarse en lo importante.",
+      "headline": "Claridad para avanzar.",
+      "body": "La jerarquía visual y un sistema modular reducen la carga cognitiva sin ocultar la profundidad de los datos.",
+      "closing": "Los datos también pueden sentirse simples."
+    },
+    "gallery": ["/images/gallery/studio-desk.jpg"],
+    "color": "#3558e8"
+  },
+  {
+    "id": 3,
+    "slug": "noma-store",
+    "name": "Noma Store",
+    "description": "Moda esencial con una experiencia de compra serena.",
+    "image": "/images/projects/noma-store-cover.jpg",
+    "category": "E-commerce",
+    "year": "2024",
+    "technologies": ["Vue", "UX Writing", "Responsive"],
+    "details": {
+      "intro": "Una tienda digital donde producto, ritmo y fotografía construyen una experiencia de compra tranquila.",
+      "summary": "Noma elimina ruido para que materiales y formas ocupen el centro de la experiencia, desde la exploración hasta el pago.",
+      "headline": "Comprar sin ruido.",
+      "body": "Una retícula flexible, filtros claros y microinteracciones discretas mantienen el foco en cada prenda.",
+      "closing": "Menos interfaz. Más producto."
+    },
+    "gallery": ["/images/gallery/fashion-editorial.jpg"],
+    "color": "#d9bc95"
+  },
+  {
+    "id": 4,
+    "slug": "orbit-system",
+    "name": "Orbit System",
+    "description": "Un lenguaje compartido para diseñar y construir mejor.",
+    "image": "/images/projects/orbit-system-cover.jpg",
+    "category": "Design System",
+    "year": "2024",
+    "technologies": ["Tokens", "Components", "Documentation"],
+    "details": {
+      "intro": "Un sistema de diseño vivo para unir producto, marca y desarrollo en una misma dirección.",
+      "summary": "Orbit convierte decisiones repetidas en patrones compartidos y deja espacio para que cada producto mantenga su carácter.",
+      "headline": "Consistencia con criterio.",
+      "body": "Tokens, componentes y documentación forman una base común que acelera el trabajo sin volverlo rígido.",
+      "closing": "Un sistema para seguir creando."
+    },
+    "gallery": ["/images/gallery/studio-desk.jpg"],
+    "color": "#c9ec31"
+  },
+  {
+    "id": 5,
+    "slug": "atlas-travel",
+    "name": "Atlas Travel",
+    "description": "Viajes personalizados, planificados con sencillez.",
+    "image": "/images/projects/atlas-travel-cover.jpg",
+    "category": "Product Design",
+    "year": "2024",
+    "technologies": ["Research", "Vue", "Interaction"],
+    "details": {
+      "intro": "Un planificador que reúne inspiración, decisiones y ruta en una experiencia ligera.",
+      "summary": "Atlas acompaña el viaje desde la primera idea y transforma preferencias dispersas en un itinerario personal y comprensible.",
+      "headline": "Planear también es viajar.",
+      "body": "La propuesta combina descubrimiento visual, edición directa y una estructura preparada para cualquier tamaño de pantalla.",
+      "closing": "Cada ruta empieza con una posibilidad."
+    },
+    "gallery": [
+      "/images/gallery/travel-city.jpg",
+      "/images/gallery/travel-sunset.jpg"
+    ],
+    "color": "#48c3b8"
+  },
+  {
+    "id": 6,
+    "slug": "studio-nova",
+    "name": "Studio Nova",
+    "description": "Una presencia digital flexible para ideas que cambian.",
+    "image": "/images/projects/studio-nova-cover.jpg",
+    "category": "Creative Development",
+    "year": "2023",
+    "technologies": ["Vue", "Motion", "Art Direction"],
+    "details": {
+      "intro": "Una identidad web modular para un estudio que trabaja entre diseño, cultura y tecnología.",
+      "summary": "Nova convierte un archivo cambiante de proyectos en una narrativa flexible, directa y reconocible.",
+      "headline": "Una estructura que se mueve.",
+      "body": "La dirección de arte y el desarrollo comparten reglas sencillas para que cada nueva pieza encuentre su lugar.",
+      "closing": "La identidad vive en el cambio."
+    },
+    "gallery": ["/images/gallery/studio-desk.jpg"],
+    "color": "#9a70d7"
+  }
+]
